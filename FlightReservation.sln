@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightReservation.Domain", "FlightReservation.Domain\FlightReservation.Domain.csproj", "{8BB3D06D-3F60-4493-AA6D-FCF9BD0260D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightReservation.Application", "FlightReservation.Application\FlightReservation.Application.csproj", "{40A57DB1-EF95-4311-875E-4DE8C1DCEEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightReservation.Infrastructure", "FlightReservation.Infrastructure\FlightReservation.Infrastructure.csproj", "{C5DB98BA-03A6-4994-A667-775BFD064148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightReservation.Presentation", "FlightReservation.Presentation\FlightReservation.Presentation.csproj", "{41954317-C52A-46EB-ABB7-A6D61F949124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB3D06D-3F60-4493-AA6D-FCF9BD0260D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB3D06D-3F60-4493-AA6D-FCF9BD0260D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB3D06D-3F60-4493-AA6D-FCF9BD0260D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB3D06D-3F60-4493-AA6D-FCF9BD0260D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A57DB1-EF95-4311-875E-4DE8C1DCEEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A57DB1-EF95-4311-875E-4DE8C1DCEEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A57DB1-EF95-4311-875E-4DE8C1DCEEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A57DB1-EF95-4311-875E-4DE8C1DCEEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DB98BA-03A6-4994-A667-775BFD064148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DB98BA-03A6-4994-A667-775BFD064148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DB98BA-03A6-4994-A667-775BFD064148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DB98BA-03A6-4994-A667-775BFD064148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41954317-C52A-46EB-ABB7-A6D61F949124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41954317-C52A-46EB-ABB7-A6D61F949124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41954317-C52A-46EB-ABB7-A6D61F949124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41954317-C52A-46EB-ABB7-A6D61F949124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

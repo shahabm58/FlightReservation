@@ -1,0 +1,15 @@
+E:\FlightReservation\FlightReservation.Application\bin\Debug\net8.0\FlightReservation.Application.deps.json
+E:\FlightReservation\FlightReservation.Application\bin\Debug\net8.0\FlightReservation.Application.dll
+E:\FlightReservation\FlightReservation.Application\bin\Debug\net8.0\FlightReservation.Application.pdb
+E:\FlightReservation\FlightReservation.Application\bin\Debug\net8.0\FlightReservation.Domain.dll
+E:\FlightReservation\FlightReservation.Application\bin\Debug\net8.0\FlightReservation.Domain.pdb
+E:\FlightReservation\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.csproj.AssemblyReference.cache
+E:\FlightReservation\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\FlightReservation\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.AssemblyInfoInputs.cache
+E:\FlightReservation\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.AssemblyInfo.cs
+E:\FlightReservation\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.csproj.CoreCompileInputs.cache
+E:\FlightReservation\FlightReservation.Application\obj\Debug\net8.0\FlightRe.25040CAF.Up2Date
+E:\FlightReservation\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.dll
+E:\FlightReservation\FlightReservation.Application\obj\Debug\net8.0\refint\FlightReservation.Application.dll
+E:\FlightReservation\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.pdb
+E:\FlightReservation\FlightReservation.Application\obj\Debug\net8.0\ref\FlightReservation.Application.dll

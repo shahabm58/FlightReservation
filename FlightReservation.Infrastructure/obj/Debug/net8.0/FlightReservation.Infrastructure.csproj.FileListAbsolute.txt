@@ -1,0 +1,17 @@
+E:\FlightReservation\FlightReservation.Infrastructure\bin\Debug\net8.0\FlightReservation.Infrastructure.deps.json
+E:\FlightReservation\FlightReservation.Infrastructure\bin\Debug\net8.0\FlightReservation.Infrastructure.runtimeconfig.json
+E:\FlightReservation\FlightReservation.Infrastructure\bin\Debug\net8.0\FlightReservation.Infrastructure.dll
+E:\FlightReservation\FlightReservation.Infrastructure\bin\Debug\net8.0\FlightReservation.Infrastructure.pdb
+E:\FlightReservation\FlightReservation.Infrastructure\bin\Debug\net8.0\FlightReservation.Domain.dll
+E:\FlightReservation\FlightReservation.Infrastructure\bin\Debug\net8.0\FlightReservation.Domain.pdb
+E:\FlightReservation\FlightReservation.Infrastructure\obj\Debug\net8.0\FlightReservation.Infrastructure.csproj.AssemblyReference.cache
+E:\FlightReservation\FlightReservation.Infrastructure\obj\Debug\net8.0\FlightReservation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\FlightReservation\FlightReservation.Infrastructure\obj\Debug\net8.0\FlightReservation.Infrastructure.AssemblyInfoInputs.cache
+E:\FlightReservation\FlightReservation.Infrastructure\obj\Debug\net8.0\FlightReservation.Infrastructure.AssemblyInfo.cs
+E:\FlightReservation\FlightReservation.Infrastructure\obj\Debug\net8.0\FlightReservation.Infrastructure.csproj.CoreCompileInputs.cache
+E:\FlightReservation\FlightReservation.Infrastructure\obj\Debug\net8.0\FlightRe.6E5804C6.Up2Date
+E:\FlightReservation\FlightReservation.Infrastructure\obj\Debug\net8.0\FlightReservation.Infrastructure.dll
+E:\FlightReservation\FlightReservation.Infrastructure\obj\Debug\net8.0\refint\FlightReservation.Infrastructure.dll
+E:\FlightReservation\FlightReservation.Infrastructure\obj\Debug\net8.0\FlightReservation.Infrastructure.pdb
+E:\FlightReservation\FlightReservation.Infrastructure\obj\Debug\net8.0\FlightReservation.Infrastructure.genruntimeconfig.cache
+E:\FlightReservation\FlightReservation.Infrastructure\obj\Debug\net8.0\ref\FlightReservation.Infrastructure.dll
